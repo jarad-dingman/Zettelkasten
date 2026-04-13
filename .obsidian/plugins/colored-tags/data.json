@@ -1,0 +1,31 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "ai": 8,
+    "aws": 5,
+    "dynatrace": 10,
+    "eks": 6,
+    "jira": 11,
+    "knowledge": 2,
+    "leadership": 13,
+    "management": 14,
+    "mcp": 9,
+    "me": 15,
+    "meeting": 1,
+    "project": 4,
+    "resource": 3,
+    "service-now": 12,
+    "sre": 7
+  },
+  "tagColors": {},
+  "_version": 4
+}

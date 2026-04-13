@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a455d05397aaa691",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e41894df1faf525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "595b39c316d6c831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hubs/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbb871f3c086dcb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c9e6e213b0bae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc44df06a5ff5e65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb6bfcc80a8d558d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf3687d1990ebd5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc324a7b91363d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "db0cb16af2fc09e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b633b06c98a96780",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2026-04-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-04-01"
+            }
+          },
+          {
+            "id": "6344a516e283db30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2026-04-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-01"
+            }
+          },
+          {
+            "id": "536ff50e96ad5a1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d21b117544eb5e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b48181f963043a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2026-04-01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-04-01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "595b39c316d6c831",
+  "lastOpenFiles": [
+    "Content/Projects/SRE Scorecard Dashboard.md",
+    "Content/Meetings/DT & WGU Goal Setting.md",
+    "Files/My_skills_as_defined_by_satish.png",
+    "Daily/2026-04-10.md",
+    "Content/Projects/MCP Aggregate Service.md",
+    "Daily/2026-04-08.md",
+    "Daily/2026-04-07.md",
+    "Daily/2026-04-06.md",
+    "Daily/2026-04-03.md",
+    "Daily/2026-04-02.md",
+    "Daily/2026-04-01.md",
+    "Hubs/Tasks.md",
+    "Content/Projects/Dynatrace AWS Connection.md",
+    "Daily/2026-04-09.md",
+    "Content/Meetings/Chaos Gov 04-07-2026.md",
+    "Files/DTGoalSetting.png",
+    "Content/Documents/SRE Reliability Backlog.md",
+    "Hubs/Projects.md",
+    "Hubs/Meetings.md",
+    "Hubs/Bookmarks.md",
+    "Content/Resources/Your MCP Server is Bad.md",
+    "Files/mcp_examples.png",
+    "Files/mcp_outcomes.png",
+    "Content/Projects/EKS and Fargate Pipeline Updates.md",
+    "Content/Meetings/WGU - Dynatrace AWS Cloud Platform Monitoring Discussion.md",
+    "Content/Documents/SRE Program Roadmap.md",
+    "Templates/MeetingTemplate.md",
+    "Templates/ProjectTemplate.md",
+    "Files/dashboard_metrics.png",
+    "Content/Projects/Re-org Tagging.md",
+    "Files/SRE_Reliability_backlog.xlsx",
+    "Files/SRETeamCharter.docx",
+    "Files/SRE_program_roadmap.pptx",
+    "Files/WGU - SRE Program Strategy and Roadmap Jan 2026 .pptx",
+    "Files/SRERoadmapTargetOutcomes.png",
+    "Files/SRERoadmapImplementationPlan.png",
+    "Files/SRERoadmapContextAndPurpose.png",
+    "Files/SRERoadmapEngagementProcess.png",
+    "Screenshot 2026-04-02 at 12.10.42 PM.png",
+    "style.css",
+    "snippets/style.css",
+    "snippets",
+    "Content/Documents",
+    "Daily",
+    "Files"
+  ]
+}

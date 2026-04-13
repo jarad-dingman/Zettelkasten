@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSun",
+      "LiFileBox",
+      "LiCog",
+      "LiFolderTree",
+      "LiFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Templates": {
+    "iconName": "LiFolder",
+    "iconColor": "#5cb5cc"
+  },
+  "Content": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ce7f4b"
+  },
+  "Hubs": {
+    "iconName": "LiCog",
+    "iconColor": "#7f59c5"
+  },
+  "Files": {
+    "iconName": "LiFileBox",
+    "iconColor": "#5fb98b"
+  },
+  "Daily": {
+    "iconName": "LiSun",
+    "iconColor": "#e0e26f"
+  }
+}

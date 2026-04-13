@@ -1,0 +1,40 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "Templates",
+    "Hubs",
+    "snippets"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Templates/MeetingTemplate.md": "40c85be11f515f5ab728928f3aadf3be483f45a5a13b728a64785d194d496880",
+    "Hubs/Meetings.md": "80f06984eafca30eb047418525ac78f5aca881a60611a972d9c56fb8b094104b",
+    "Daily/2026-04-01.md": "d011a5375537ad7ef5832fb43ad482b8b023a7f4bbd4af2b7819d64c73fc8ad9",
+    "Daily/2026-04-02.md": "f61d9de22fe6bc0f60caf71993bd16abc5923e0d5239c873bb3cd1620d0d8d34",
+    "Content/Projects/EKS and Fargate Pipeline Updates.md": "2f267c11d4b14d199e995730a804766aafd0ec947740462a55847553c105ec67",
+    "Content/Projects/MCP Aggregate Service.md": "6870699dd308dd4a9e457abb57b0f0b606cc3fabd7db14b3e579a8b89b0986fa",
+    "Content/Documents/SRE Program Roadmap.md": "de35a97a562148951ab8d97cd035372be8933e728ce85191efbed95504a08713",
+    "Content/Documents/SRE Team Charter.md": "c765b971c24b5acdcb9c4b46cdd764908d4e3fa1837525c575ca093461c3ef06",
+    "Content/Documents/SRE Reliability Backlog.md": "9be8678c923d09577cbce39e7c14ab388304c4c5d789c7b1eeae3a1899a69872",
+    "Content/Projects/SRE Scorecard Dashboard.md": "8efa30f791415f60415df5750d2b6ae86d9c8115f751772f67d662c84431b5e7",
+    "Content/Projects/Re-org Tagging.md": "ded7c99b2d8900fabdeeb1a3da8b5c0268de374a0182804ec4fe9adc7a119b83",
+    "Content/Blinks/Radical Candor.md": "d807233c89dc7615862a5bf5430f83ac964f105ec0e2d484a27417055cec561b",
+    "Content/Blinks/Extreme Ownership.md": "3478edf78042a0c8f69664b80d59200fa7e69ec287b7fb791db00da0c56abf2b",
+    "Daily/2026-04-03.md": "64697c31399d7be7e5e5dbd4b8e82ea6a43b7f9afe7dab48044af2dc13b837aa",
+    "Daily/2026-04-06.md": "10036309d85fa291d789429f4b0e8603009e2602ffeae78b22a66f29f2664933",
+    "Daily/2026-04-07.md": "700e5a3b165fbb59462e0fc230b27cfe1cbdfc0e6d9d6c22cbc1a184c3ae52b8",
+    "Content/Meetings/Chaos Gov 04-07-2026.md": "7ccf60dcbcc9bab72c8af110c8f7f058d931893c20bf3ab0f8a849322fc43f03",
+    "Content/Meetings/WGU - Dynatrace AWS Cloud Platform Monitoring Discussion.md": "f5ead854efedc050a7a525ab9d58901a2540fb9b31eff4ba9137be0b5220bd97",
+    "Daily/2026-04-08.md": "0180bf8702c6e7d3fd9efc7a8161ebe259397eb3951f8ccad5bf55d27bcd84f0",
+    "Content/Projects/Dynatrace AWS Connection.md": "5c31b2276332a299645deaaed553f2e934f46df6c305e7ce1ddb1355f15f8003",
+    "Content/Resources/Your MCP Server is Bad.md": "071c0ec7db2e14756ecb7856d2a7fe2e55f1490ba0fc18cf26213255d905efce",
+    "Daily/2026-04-09.md": "cd6d2db4129d0b7ce380a52e4cba1f2bb0daa79fc847b55ef7669dce1ebf811b",
+    "Content/Meetings/DT & WGU Goal Setting.md": "c51effa36bc3815a796351f7d8cd3be575bd65411578abf1a967c86c4be2dcd7",
+    "Daily/2026-04-10.md": "d82d12063ab762e5fb6682a0282e27f1a55ca76848468bcd645a19eaafddacb0"
+  }
+}
