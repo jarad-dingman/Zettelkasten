@@ -16,3 +16,11 @@ WHERE !completed
 AND due = null
 SORT file.name ASC, line ASC
 ```
+
+### Completed:
+```dataview
+TASK
+WHERE completed
+GROUP BY completion
+SORT completion DESC
+```
